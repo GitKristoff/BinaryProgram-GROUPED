@@ -2,11 +2,15 @@ import javax.swing.*;
 public class BinaryProgram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		/******************************************************************
 		 * Program 1: Conversion from binary to decimal representation
-		 * Programmer: 
+		 * Programmer: Jacille A. Gabello
+		 * 			   Kate Jennifer C. Gordon
+		 * 			   Jasper A. Sus
+		 * 			   Renzo Marvin B. Patigayon
+		 * 			   Kristoffer E. Ofalsa
+		 * 
 		 * 
 		 * Class: IT 121        Instructor: John Mark D. Gabrentina
 		 *        
